@@ -21,4 +21,5 @@ const timerAlert = function(times) {
 };
 
 
-timerAlert(times);
+timerAlert(times); 
+
